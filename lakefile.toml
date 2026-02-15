@@ -1,0 +1,7 @@
+name = "lean_audio"
+version = "0.1.0"
+defaultTargets = ["lean_audio"]
+
+[[lean_exe]]
+name = "lean_audio"
+root = "Main"
